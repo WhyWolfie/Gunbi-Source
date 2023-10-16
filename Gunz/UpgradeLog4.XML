@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Gunz">
+</Property><Property Name="Solution File" Value="D:\1-2-3\Source\Source\Gunz\Gunz.sln">
+</Property><Property Name="User Options File" Value="D:\1-2-3\Source\Source\Gunz\Gunz.suo">
+</Property><Property Name="Date" Value="Thursday, September 18, 2014">
+</Property><Property Name="Time" Value="16:42 PM">
+</Property><Property Name="Log Number" Value="4">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="Gunz.sln" Description="Error creating backup file: D:\1-2-3\Source\Source\Gunz\Gunz.sln.old">
+</Event><Event ErrorLevel="2" Project="" Source="Gunz.suo" Description="Error creating backup file: D:\1-2-3\Source\Source\Gunz\Gunz.suo.old">
+</Event><Event ErrorLevel="3" Project="CSCommon" Source="..\CSCommon\CSCommon.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="SafeUDP" Source="..\SafeUDP\SafeUDP.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="Mint" Source="..\Mint2\Mint.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="RealSpace2" Source="..\RealSpace2\RealSpace2.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="Gunz" Source="Gunz.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="RealSound" Source="..\RealSound\RealSound.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="MCountryFilter" Source="..\MCountryFilter\MCountryFilter.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="cml" Source="..\cml\cml.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="MDatabase" Source="..\MDatabase\MDatabase.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="StringLiteral" Source="..\StringLiteral\StringLiteral.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Gunz.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Gunz.sln" Description="Converted">
+</Event></UpgradeLog>

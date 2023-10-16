@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="MFCFramework">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;h;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx</Extensions>
+    </Filter>
+    <Filter Include="Logic">
+      <UniqueIdentifier>{99f5bc33-623b-4c42-b0e1-ae13ab6ca7c4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BuildDlg.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="MUIObserverTransDlg.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="MUpdate.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="MUpdateDoc.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="MUpdateView.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="TransferDlg.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="UpdateBar.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="MFileTransfer.cpp">
+      <Filter>Logic</Filter>
+    </ClCompile>
+    <ClCompile Include="MPatchBuilder.cpp">
+      <Filter>Logic</Filter>
+    </ClCompile>
+    <ClCompile Include="MPatchInfoLoader.cpp">
+      <Filter>Logic</Filter>
+    </ClCompile>
+    <ClCompile Include="MPatchNode.cpp">
+      <Filter>Logic</Filter>
+    </ClCompile>
+    <ClCompile Include="MSafeThread.cpp">
+      <Filter>Logic</Filter>
+    </ClCompile>
+    <ClCompile Include="MUIObserver.cpp">
+      <Filter>Logic</Filter>
+    </ClCompile>
+    <ClCompile Include="MUpdateMgr.cpp">
+      <Filter>Logic</Filter>
+    </ClCompile>
+    <ClCompile Include="MVersion.cpp">
+      <Filter>Logic</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BuildDlg.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="MUIObserverTransDlg.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="MUpdate.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="MUpdateDoc.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="MUpdateView.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="TransferDlg.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="UpdateBar.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="UserWinMsg.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="MFileTransfer.h">
+      <Filter>Logic</Filter>
+    </ClInclude>
+    <ClInclude Include="MFTCmd.h">
+      <Filter>Logic</Filter>
+    </ClInclude>
+    <ClInclude Include="MFTNotify.h">
+      <Filter>Logic</Filter>
+    </ClInclude>
+    <ClInclude Include="MPatchBuilder.h">
+      <Filter>Logic</Filter>
+    </ClInclude>
+    <ClInclude Include="MPatchInfoLoader.h">
+      <Filter>Logic</Filter>
+    </ClInclude>
+    <ClInclude Include="MPatchNode.h">
+      <Filter>Logic</Filter>
+    </ClInclude>
+    <ClInclude Include="MSafeThread.h">
+      <Filter>Logic</Filter>
+    </ClInclude>
+    <ClInclude Include="MUIObserver.h">
+      <Filter>Logic</Filter>
+    </ClInclude>
+    <ClInclude Include="MUpdateMgr.h">
+      <Filter>Logic</Filter>
+    </ClInclude>
+    <ClInclude Include="MVersion.h">
+      <Filter>Logic</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\icon1.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\MUpdate.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Toolbar.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MUpdate.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="res\MUpdate.manifest" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,297 @@
+GUNZ 1,5,1,0 launched. build (Jul 15 2016 17:49:10) 
+Log time (07/15/16 19:20:01)
+CPU ID = GenuineIntel ( family = 774 , model = 12 , stepping = 3 ) @ 2394 MHz
+Display Device = Intel(R) HD Graphics 4600 ( vendor=8086 device=416 subsys=11031462 revision=6 )
+Display Driver Version = 20.19.0015.4444
+Windows = 6.2 Build 9200 ,  (2097151KB) :  ..
+Load XML from memory : system/locale.xml- SUCCESS
+Country : (USA), Language : (USA)
+Load Config from file : config.xml- SUCCESS
+Load XML from memory : system/system.xml- SUCCESS
+Load XML from memory : system/strings.xml(0x0009) - SUCCESS
+Load XML from memory : system/cserror.xml(0x0009) - SUCCESS
+Load XML from memory : system/messages.xml(0x0009) - SUCCESS
+Load XML from memory : system/gametypecfg.xml 
+InitializeNotify ok.
+WFog Enabled Device.
+device created.
+Video memory 2045.500000 
+shader initialize successful : 1
+main : RGetLenzFlare()->Initialize() 
+v1.5.1.0.0
+InitialLoading success.
+interface Initialize success
+ZApplication::OnCreate : begin
+0(Primary Sound Driver): Hardware Mixing Not Supported
+1(Speakers (Realtek High Definition Audio)): Hardware Mixing Not Supported
+[[[getMaxChannel48]]]]
+LoadWave: Error loading file
+LoadWave: Error creating hardware sound buffer.
+LoadWave: Error creating hardware sound buffer.
+LoadWave: Error creating hardware sound buffer.
+LoadWave: Error creating hardware sound buffer.
+LoadWave: Error creating hardware sound buffer.
+
+-------------------> Sound Engine Create : 0.318000 
+
+sound engine create.
+Load XML from memory : System/tips.xml(0x0009)- SUCCESS
+start log bipmap
+end of load bitmaps2
+loading pictures : 1.444000 
+warning : bitmap banner_ChallengeQuest_Guerilla.tga not found.
+warning : bitmap slot_head.tga not found.
+warning : bitmap slot_head.tga not found.
+warning : bitmap icon_gameroom.tga not found.
+IDLResource Loading Success!!
+IDL resources : 0.108000 
+start InitInterface option
+Number of Display mode : 22
+Number of Display mode : 0
+end of InitInterface option ok
+Init maps : no Current ChannelRule 
+Screen Effect Manager Create : 0.023000 
+Screen effect manager create success.
+Effect manager create success.
+Client create success.
+game interface create success.
+
+-------------------> GameInterface Create : 1.658000 
+
+Load character.xml success,
+
+-------------------> Character Loading : 0.613000 
+
+
+-------------------> WeaponMesh Loading : 0.214000 
+
+Load weapon.xml success. 
+
+-------------------> Worlditem Loading : 0.006000 
+
+Load zitem info success.
+Load zBuff info success.
+Init world item manager success.
+Init map Descriptor success.
+Init channel rule manager success.
+Init abuse manager success.
+Init chatting filter. success
+
+-------------------> ETC .. : 0.480000 
+
+BspObject open : begin interface/login/login.rs 
+RBspObject::Open : Open_MaterialList
+RBspObject::Open : Open_LightList
+BspObject open object list : begin
+RBspObject::Open_ObjectList : size 13 
+RBspObject::Open_ObjectList : end
+RBspObject::Open : OpenDescription
+RBspObject::OpenRs : file.Open 
+RBspObject::OpenRs : file.Read(&header) 
+RBspObject::OpenRs : file.Read(&nMaterial) 
+RBspObject::OpenRs : Open_Nodes begin 
+RBspObject::OpenRs : Open_Nodes end 
+RBspObject::Open : OpenRs 
+RBspObject::Open : OpenBsp 
+BspObject load lightmap : file.Read(&header)
+BspObject load lightmap nCount = 1
+BspObject load lightmap 0
+BspObject load lightmap : file.Read(&m_nLightmap) done
+BspObject load lightmap : end 
+RBspObject::Open : done
+Load smoke description mesh.
+main : OnCreate() done
+Server Connected
+Login Posted
+Login Successful. 
+Responsed Account Charlist
+Selected character name : Deffender (44 65 66 66 65 6E 64 65 72 )  (len = 9)
+StageCreated
+CastStageBridgePeer 호출 in Zgame::Create
+game create begin , type = 20
+BspObject open : begin maps/high_haven/high_haven.rs 
+RBspObject::Open : Open_MaterialList
+RBspObject::Open : Open_LightList
+BspObject open object list : begin
+RBspObject::Open_ObjectList : size 5 
+RBspObject::Open_ObjectList : end
+RBspObject::Open : OpenDescription
+RBspObject::OpenRs : file.Open 
+RBspObject::OpenRs : file.Read(&header) 
+RBspObject::OpenRs : file.Read(&nMaterial) 
+RBspObject::OpenRs : Open_Nodes begin 
+RBspObject::OpenRs : Open_Nodes end 
+RBspObject::Open : OpenRs 
+RBspObject::Open : OpenBsp 
+BspObject load lightmap : file.Read(&header)
+BspObject load lightmap nCount = 1
+BspObject load lightmap 0
+BspObject load lightmap : file.Read(&m_nLightmap) done
+BspObject load lightmap : end 
+RBspObject::Open : done
+game world create success.
+Reload all animation end 
+---------------------------------setBuffer
+game created ( 19:22:20 )
+Create character : Name=Deffender Level=2 
+game interface destory begin.
+game destroy begin
+Destroy sound engine()
+game destroy match destroy 
+------------------------ReleaseBuffer
+game destroyed ( 19:23:04 )
+game interface destroy finished
+StageCreated
+BspObject open : begin interface/login/login.rs 
+RBspObject::Open : Open_MaterialList
+RBspObject::Open : Open_LightList
+BspObject open object list : begin
+RBspObject::Open_ObjectList : size 13 
+RBspObject::Open_ObjectList : end
+RBspObject::Open : OpenDescription
+RBspObject::OpenRs : file.Open 
+RBspObject::OpenRs : file.Read(&header) 
+RBspObject::OpenRs : file.Read(&nMaterial) 
+RBspObject::OpenRs : Open_Nodes begin 
+RBspObject::OpenRs : Open_Nodes end 
+RBspObject::Open : OpenRs 
+RBspObject::Open : OpenBsp 
+BspObject load lightmap : file.Read(&header)
+BspObject load lightmap nCount = 1
+BspObject load lightmap 0
+BspObject load lightmap : file.Read(&m_nLightmap) done
+BspObject load lightmap : end 
+RBspObject::Open : done
+Load smoke description mesh.
+Server Connected
+Login Posted
+Login Successful. 
+Responsed Account Charlist
+Selected character name : Deffender (44 65 66 66 65 6E 64 65 72 )  (len = 9)
+StageCreated
+CastStageBridgePeer 호출 in Zgame::Create
+game create begin , type = 20
+BspObject open : begin maps/high_haven/high_haven.rs 
+RBspObject::Open : Open_MaterialList
+RBspObject::Open : Open_LightList
+BspObject open object list : begin
+RBspObject::Open_ObjectList : size 5 
+RBspObject::Open_ObjectList : end
+RBspObject::Open : OpenDescription
+RBspObject::OpenRs : file.Open 
+RBspObject::OpenRs : file.Read(&header) 
+RBspObject::OpenRs : file.Read(&nMaterial) 
+RBspObject::OpenRs : Open_Nodes begin 
+RBspObject::OpenRs : Open_Nodes end 
+RBspObject::Open : OpenRs 
+RBspObject::Open : OpenBsp 
+BspObject load lightmap : file.Read(&header)
+BspObject load lightmap nCount = 1
+BspObject load lightmap 0
+BspObject load lightmap : file.Read(&m_nLightmap) done
+BspObject load lightmap : end 
+RBspObject::Open : done
+game world create success.
+Reload all animation end 
+---------------------------------setBuffer
+game created ( 19:25:30 )
+Create character : Name=Deffender Level=2 
+game interface destory begin.
+game destroy begin
+Destroy sound engine()
+game destroy match destroy 
+------------------------ReleaseBuffer
+game destroyed ( 19:26:56 )
+game interface destroy finished
+BspObject open : begin interface/login/login.rs 
+RBspObject::Open : Open_MaterialList
+RBspObject::Open : Open_LightList
+BspObject open object list : begin
+RBspObject::Open_ObjectList : size 13 
+RBspObject::Open_ObjectList : end
+RBspObject::Open : OpenDescription
+RBspObject::OpenRs : file.Open 
+RBspObject::OpenRs : file.Read(&header) 
+RBspObject::OpenRs : file.Read(&nMaterial) 
+RBspObject::OpenRs : Open_Nodes begin 
+RBspObject::OpenRs : Open_Nodes end 
+RBspObject::Open : OpenRs 
+RBspObject::Open : OpenBsp 
+BspObject load lightmap : file.Read(&header)
+BspObject load lightmap nCount = 1
+BspObject load lightmap 0
+BspObject load lightmap : file.Read(&m_nLightmap) done
+BspObject load lightmap : end 
+RBspObject::Open : done
+Load smoke description mesh.
+Server Connected
+Login Posted
+Login Successful. 
+Responsed Account Charlist
+Selected character name : Deffender (44 65 66 66 65 6E 64 65 72 )  (len = 9)
+StageCreated
+CastStageBridgePeer 호출 in Zgame::Create
+game create begin , type = 20
+BspObject open : begin maps/high_haven/high_haven.rs 
+RBspObject::Open : Open_MaterialList
+RBspObject::Open : Open_LightList
+BspObject open object list : begin
+RBspObject::Open_ObjectList : size 5 
+RBspObject::Open_ObjectList : end
+RBspObject::Open : OpenDescription
+RBspObject::OpenRs : file.Open 
+RBspObject::OpenRs : file.Read(&header) 
+RBspObject::OpenRs : file.Read(&nMaterial) 
+RBspObject::OpenRs : Open_Nodes begin 
+RBspObject::OpenRs : Open_Nodes end 
+RBspObject::Open : OpenRs 
+RBspObject::Open : OpenBsp 
+BspObject load lightmap : file.Read(&header)
+BspObject load lightmap nCount = 1
+BspObject load lightmap 0
+BspObject load lightmap : file.Read(&m_nLightmap) done
+BspObject load lightmap : end 
+RBspObject::Open : done
+game world create success.
+Reload all animation end 
+---------------------------------setBuffer
+game created ( 19:28:25 )
+Create character : Name=Deffender Level=2 
+game interface destory begin.
+game destroy begin
+Destroy sound engine()
+game destroy match destroy 
+------------------------ReleaseBuffer
+game destroyed ( 19:29:21 )
+game interface destroy finished
+StageCreated
+Destroy gunz
+Destroy sound engine.
+Destroy sound engine. success
+Destroy console.
+Destroy interface begin 
+destroy client.
+PeerInfoList Released
+clear looks end.
+Widget map clear end.
+desctroy cursor system end.
+clear IDL resource end.
+Final interface end.
+Destroy game interface done.
+clear looks end.
+Widget map clear end.
+desctroy cursor system end.
+Destroy mesh manager.
+Destroy weapon mesh manager.
+Clear SkillManager.
+Clear QuestItemDescMgr.
+Clear MatchItemDescMgr.
+Clear ChattingFilter.
+Clear ChannelRuleMgr.
+destroy game application done.
+interface finalize.
+game input destroy.
+game gonfiguration destroy.
+Bitmap manager destroy Animation bitmap.
+destroy gunz finish.
+Rframe_destory::closeDisplay

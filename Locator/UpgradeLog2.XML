@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Locator">
+</Property><Property Name="Solution File" Value="D:\1-2-3\Source\Source\Locator\Locator.sln">
+</Property><Property Name="User Options File" Value="D:\1-2-3\Source\Source\Locator\Locator.suo">
+</Property><Property Name="Date" Value="Thursday, September 18, 2014">
+</Property><Property Name="Time" Value="16:43 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="Locator.sln" Description="Error creating backup file: D:\1-2-3\Source\Source\Locator\Locator.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Locator.suo" Description="File successfully backed up as D:\1-2-3\Source\Source\Locator\Locator.suo.old">
+</Event><Event ErrorLevel="3" Project="Locator" Source="Locator.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="cml" Source="..\cml\cml.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="CSCommon" Source="..\CSCommon\CSCommon.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="SafeUDP" Source="..\SafeUDP\SafeUDP.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="MDatabase" Source="..\MDatabase\MDatabase.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="MCountryFilter" Source="..\MCountryFilter\MCountryFilter.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="StringLiteral" Source="..\StringLiteral\StringLiteral.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Locator.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Locator.sln" Description="Converted">
+</Event></UpgradeLog>

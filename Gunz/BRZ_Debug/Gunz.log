@@ -1,0 +1,25 @@
+﻿Build started 7/1/2014 1:35:24 AM.
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" on node 2 (Build target(s)).
+     1>PreBuildEvent:
+         SVNRevision/UpdateRevisionCPP.bat
+         :VCEnd
+         'svn' is not recognized as an internal or external command,
+         operable program or batch file.
+         Load failed : 'revision.xml' 
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../sdk/dx9/include /I../CSCommon/Include /I../SafeUDP/Include /I../CML/Include /I../RealSpace2/Include /I../MAI/Include /I../RealSpace/Include /I../Mint2/Include /I../RealSound/Include /I../MDatabase/Include /I../MCountryFilter/Include /ZI /nologo /W3 /WX- /Od /Oy- /D LOCALE_BRAZIL /D WIN32 /D _DEBUG /D _WINDOWS /D _DONOTUSE_DINPUT_MOUSE /D _LOCATOR /D _XTRAP /D _USING_CXR /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"BRZ_Debug\Gunz.pch" /Fo"BRZ_Debug\\" /Fd"BRZ_Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\atlmfc\include\afx.h(33) : see declaration of 'MBCS_Support_Deprecated_In_MFC'
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     1>d:\1-2-3\source\source\mint2\include\mlistbox.h(86): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\1-2-3\source\source\mint2\include\mlistbox.h(201): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : see declaration of 'stricmp'
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\xmemory0(592): error C3859: virtual memory range for PCH exceeded; please recompile with a command line option of '-Zm152' or greater
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\xmemory0(592): fatal error C1076: compiler limit : internal heap limit reached; use /Zm to specify a higher limit
+     1>Done Building Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:18.66

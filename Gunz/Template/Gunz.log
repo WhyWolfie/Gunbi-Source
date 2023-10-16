@@ -1,0 +1,8 @@
+﻿Build started 7/1/2014 1:52:58 AM.
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.Cpp.Platform.targets(61,5): error MSB8013: This project doesn't contain the Configuration and Platform combination of Template|Win32.
+     1>Done Building Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.05

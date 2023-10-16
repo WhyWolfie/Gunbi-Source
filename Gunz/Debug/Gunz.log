@@ -1,0 +1,81 @@
+﻿Build started 9/18/2014 5:12:20 PM.
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" on node 2 (build target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (1) is building "D:\1-2-3\Source\Source\MCountryFilter\MCountryFilter.vcxproj" (2) on node 1 (GetTargetPath target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     2>Done Building Project "D:\1-2-3\Source\Source\MCountryFilter\MCountryFilter.vcxproj" (GetTargetPath target(s)).
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (1) is building "D:\1-2-3\Source\Source\cml\cml.vcxproj" (3) on node 2 (GetTargetPath target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     3>Done Building Project "D:\1-2-3\Source\Source\cml\cml.vcxproj" (GetTargetPath target(s)).
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (1) is building "D:\1-2-3\Source\Source\MDatabase\MDatabase.vcxproj" (4) on node 1 (GetTargetPath target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     4>Done Building Project "D:\1-2-3\Source\Source\MDatabase\MDatabase.vcxproj" (GetTargetPath target(s)).
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (1) is building "D:\1-2-3\Source\Source\RealSound\RealSound.vcxproj" (5) on node 1 (GetTargetPath target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     5>Done Building Project "D:\1-2-3\Source\Source\RealSound\RealSound.vcxproj" (GetTargetPath target(s)).
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (1) is building "D:\1-2-3\Source\Source\Mint2\Mint.vcxproj" (6) on node 2 (GetTargetPath target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     6>Done Building Project "D:\1-2-3\Source\Source\Mint2\Mint.vcxproj" (GetTargetPath target(s)).
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (1) is building "D:\1-2-3\Source\Source\RealSpace2\RealSpace2.vcxproj" (7) on node 1 (GetTargetPath target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     7>Done Building Project "D:\1-2-3\Source\Source\RealSpace2\RealSpace2.vcxproj" (GetTargetPath target(s)).
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (1) is building "D:\1-2-3\Source\Source\SafeUDP\SafeUDP.vcxproj" (8) on node 2 (GetTargetPath target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     8>Done Building Project "D:\1-2-3\Source\Source\SafeUDP\SafeUDP.vcxproj" (GetTargetPath target(s)).
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (1) is building "D:\1-2-3\Source\Source\StringLiteral\StringLiteral.vcxproj" (9) on node 1 (GetTargetPath target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     9>Done Building Project "D:\1-2-3\Source\Source\StringLiteral\StringLiteral.vcxproj" (GetTargetPath target(s)).
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (1) is building "D:\1-2-3\Source\Source\CSCommon\CSCommon.vcxproj" (10) on node 2 (GetTargetPath target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+    10>Done Building Project "D:\1-2-3\Source\Source\CSCommon\CSCommon.vcxproj" (GetTargetPath target(s)).
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (1) is building "D:\1-2-3\Source\Source\MCountryFilter\MCountryFilter.vcxproj" (2:2) on node 1 (GetNativeManifest target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     2>Done Building Project "D:\1-2-3\Source\Source\MCountryFilter\MCountryFilter.vcxproj" (GetNativeManifest target(s)).
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (1) is building "D:\1-2-3\Source\Source\cml\cml.vcxproj" (3:2) on node 2 (GetNativeManifest target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     3>Done Building Project "D:\1-2-3\Source\Source\cml\cml.vcxproj" (GetNativeManifest target(s)).
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (1) is building "D:\1-2-3\Source\Source\MDatabase\MDatabase.vcxproj" (4:2) on node 1 (GetNativeManifest target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     4>Done Building Project "D:\1-2-3\Source\Source\MDatabase\MDatabase.vcxproj" (GetNativeManifest target(s)).
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (1) is building "D:\1-2-3\Source\Source\Mint2\Mint.vcxproj" (6:2) on node 2 (GetNativeManifest target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     6>Done Building Project "D:\1-2-3\Source\Source\Mint2\Mint.vcxproj" (GetNativeManifest target(s)).
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (1) is building "D:\1-2-3\Source\Source\SafeUDP\SafeUDP.vcxproj" (8:2) on node 2 (GetNativeManifest target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     8>Done Building Project "D:\1-2-3\Source\Source\SafeUDP\SafeUDP.vcxproj" (GetNativeManifest target(s)).
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (1) is building "D:\1-2-3\Source\Source\RealSound\RealSound.vcxproj" (5:2) on node 1 (GetNativeManifest target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     5>Done Building Project "D:\1-2-3\Source\Source\RealSound\RealSound.vcxproj" (GetNativeManifest target(s)).
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (1) is building "D:\1-2-3\Source\Source\RealSpace2\RealSpace2.vcxproj" (7:2) on node 1 (GetNativeManifest target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     7>Done Building Project "D:\1-2-3\Source\Source\RealSpace2\RealSpace2.vcxproj" (GetNativeManifest target(s)).
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (1) is building "D:\1-2-3\Source\Source\StringLiteral\StringLiteral.vcxproj" (9:2) on node 1 (GetNativeManifest target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     9>Done Building Project "D:\1-2-3\Source\Source\StringLiteral\StringLiteral.vcxproj" (GetNativeManifest target(s)).
+     1>Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (1) is building "D:\1-2-3\Source\Source\CSCommon\CSCommon.vcxproj" (10:2) on node 2 (GetNativeManifest target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+    10>Done Building Project "D:\1-2-3\Source\Source\CSCommon\CSCommon.vcxproj" (GetNativeManifest target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+         Creating directory "..\Runtime\Client\".
+     1>InitializeBuildStatus:
+         Touching "Debug\Gunz.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"../../SDK/gtest/gtest-1.5.0/include" /I../StringLiteral /I../sdk/dx9/include /I../CSCommon/Include /I../SafeUDP/Include /I../CML/Include /I../RealSpace2/Include /I../MAI/Include /I../RealSpace/Include /I../Mint2/Include /I../RealSound/Include /I../MDatabase/Include /I../MCountryFilter/Include /ZI /nologo /W3 /WX- /Od /Oy /D WIN32 /D _DEBUG /D _WINDOWS /D _DONOTUSE_DINPUT_MOUSE /D LOCALE_KOREA /D _LOCATOR /D _USING_CXR /D _TDD /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Gunz.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp /Zm200 
+         stdafx.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     1>d:\1-2-3\source\source\mint2\include\mlistbox.h(86): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\1-2-3\source\source\mint2\include\mlistbox.h(201): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>d:\1-2-3\source\source\cscommon\include\mmatchclient.h(261): error C2864: 'MMatchClient::nPing' : only static const integral data members can be initialized within a class
+     1>d:\1-2-3\source\source\gunz\ztagscanner.h(34): error C2864: 'ZTagScanner::FRICTION' : only static const integral data members can be initialized within a class
+     1>d:\1-2-3\source\source\gunz\ztagscanner.h(35): error C2864: 'ZTagScanner::GRAVITY' : only static const integral data members can be initialized within a class
+     1>d:\1-2-3\source\source\gunz\ztagscanner.h(36): error C2864: 'ZTagScanner::TERMINAL_VELOCITY' : only static const integral data members can be initialized within a class
+     1>d:\1-2-3\source\source\gunz\ztagscanner.h(37): error C2864: 'ZTagScanner::SPEED_MULTIPLIER' : only static const integral data members can be initialized within a class
+     1>d:\1-2-3\source\source\gunz\ztagscanner.h(38): error C2864: 'ZTagScanner::ROCKET_SPEED' : only static const integral data members can be initialized within a class
+     1>d:\1-2-3\source\source\gunz\ztagscanner.h(40): error C2864: 'ZTagScanner::JUMP_FORCE' : only static const integral data members can be initialized within a class
+     1>Done Building Project "D:\1-2-3\Source\Source\Gunz\Gunz.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:07.52
